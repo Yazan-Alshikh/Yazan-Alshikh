@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yazan-Alshikh
+- 👋 Hi, I’m Yazan-Alshikh
 - 👀 I’m interested in flutter development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m open to work 
